@@ -6,10 +6,10 @@ Open a terminal or command prompt and navigate to a directory where you want to 
 
 Clone the project from GitHub: git clone https://github.com/<username>/<repository>
 
-Navigate to the project directory: cd <repository>
+Navigate to the project directory: `cd <repository>`
 
-Build the Docker container: docker build -t <container-name> .
+Build the Docker container: `docker build -t <container-name>` .
 
-Run the Docker container: docker run -p 5000:5000 <container-name>
+Run the Docker container: `docker run -p 5000:5000 <container-name>`
 
 After the container is running, you should be able to access the application by navigating to http://localhost:5000 in your web browser.
