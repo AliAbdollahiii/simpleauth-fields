@@ -4,7 +4,7 @@ This is a web application that allows users to log in with a username and passwo
 # Steps:
 Open a terminal or command prompt and navigate to a directory where you want to clone the project.
 
-Clone the project from GitHub: git clone https://github.com/<username>/<repository>
+Clone the project from GitHub: git clone https://github.com/AliAbdollahiii/simpleauth-fields.git
 
 Navigate to the project directory: `cd <repository>`
 
